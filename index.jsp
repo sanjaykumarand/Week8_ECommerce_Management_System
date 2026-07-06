@@ -11,7 +11,7 @@
       your browser does not support video
     </video>
  <div class="content">
-<h1 class="brand-title" id="homeTitle">SK E - COMMERCE MANAGEMENT SYSTEM</h1>
+<h1 class="brand-title" id="homeTitle">SK E-COMMERCE MANAGEMENT SYSTEM PORTAL</h1>
 <a href="register.jsp" class="btn btn-outline" id="registerLink">
 Register
 </a>
